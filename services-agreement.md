@@ -14,7 +14,7 @@ This Agreement shall commence on the Effective Date and continue for twelve (12)
 Client shall pay Provider within **thirty (30)** days of receipt of a correct invoice. Invoices not paid within thirty (30) days shall accrue interest at **1%** per month.
 
 ## 4. Limitation of Liability
-Provider's total liability under this Agreement shall not exceed **two (2) times** the total fees paid by Client in the twelve (12) months preceding the claim, **except in cases of Provider's gross negligence, willful misconduct, or infringement of Client's intellectual property rights, in which case liability shall be uncapped**. Neither party shall be liable for indirect, incidental, or consequential damages.
+Provider's total liability under this Agreement shall not exceed **two (2) times** the total fees paid by Client in the twelve (12) months preceding the claim, **except in cases of Provider's gross negligence or willful misconduct, in which case liability shall be uncapped**. Neither party shall be liable for indirect, incidental, or consequential damages.
 
 ## 5. Termination
 Either party may terminate this Agreement for convenience upon **ninety (90)** days' written notice. Either party may terminate immediately for material breach not cured within **thirty (30)** days of written notice.
